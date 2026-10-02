@@ -143,6 +143,6 @@ PyTorch · torchvision · Kornia · scikit-image · NumPy · Matplotlib
 
 ## Authors
 
-Barath Dharshan
-Mohamed Amjad
-Syed Farhan Syed Sathik Basha
+- Barath Dharshan
+- Mohamed Amjad
+- Syed Farhan Syed Sathik Basha
